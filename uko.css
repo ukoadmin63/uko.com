@@ -1,0 +1,98 @@
+.uko {
+    width: 500px;
+    border-radius: 20px;
+}
+
+.uc {
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.uko .uko4 {
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+.uko6 {
+    text-align: center;
+    justify-content: center;
+}
+.BTN{
+    
+    width: 500px;
+    border-radius: 20px;
+}
+body{
+    background: url(../img/0f50a2ed874d59236467699ac6543514.jpg) no-repeat;
+    width: 100%;
+    background-attachment:fixed ;
+}
+footer {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: Arial, sans-serif;
+    padding: 20px 15px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .footer-top .logo {
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .footer-top nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+  }
+  
+  .footer-top nav a:hover {
+    text-decoration: underline;
+  }
+  
+  footer p {
+    font-size: 12px;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+  }
+  
+  .social-links a img,
+  .app-links a img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .social-links a img:hover,
+  .app-links a img:hover {
+    opacity: 0.8;
+  }
+  
+  .app-links a img {
+    margin-right: 0;
+  }
+  
